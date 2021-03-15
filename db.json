@@ -1,61 +1,65 @@
-[{
-  "name": "Duff",
-  "description ": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
-  "category": "Drama",
-  "price": 30
-}, {
-  "name": "Nedi",
-  "description ": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.",
-  "category": "Musical",
-  "price": 98
-}, {
-  "name": "Alleyn",
-  "description ": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
-  "category": "Crime|Drama",
-  "price": 90
-}, {
-  "name": "Linus",
-  "description ": "Aenean fermentum.",
-  "category": "Documentary",
-  "price": 65
-}, {
-  "name": "Siffre",
-  "description ": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.",
-  "category": "Comedy|Drama",
-  "price": 7
-}, {
-  "name": "Mathilde",
-  "description ": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
-  "category": "Comedy|Romance",
-  "price": 36
-}, {
-  "name": "Myles",
-  "description ": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
-  "category": "Drama|Romance|War",
-  "price": 68
-}, {
-  "name": "Eloisa",
-  "description ": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
-  "category": "Comedy",
-  "price": 95
-}, {
-  "name": "Ajay",
-  "description ": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.",
-  "category": "Action|Comedy|Crime",
-  "price": 28
-}, {
-  "name": "Anetta",
-  "description ": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
-  "category": "Drama",
-  "price": 44
-}, {
-  "name": "Zachariah",
-  "description ": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.",
-  "category": "Drama",
-  "price": 42
-}, {
-  "name": "Abbe",
-  "description ": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus.",
-  "category": "Horror|Thriller",
-  "price": 24
-}]
+
+
+  $(document).ready(function(){
+    $("show1").click(function(e){
+        $("demo1").slideToggle();
+      });
+
+  });
+
+
+
+
+  var json = 
+  {games:
+    [{
+    "name": "Arma 3",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71kpEBuzxnL._SX679_.jpg",
+    "description ": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single- and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC’s premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
+    "category": "Action",
+    "price": 30
+  }, {
+    "name": "Half-Life: Alyx",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/546560/header.jpg?t=1605207546",
+    "description ": "Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2. Playing as Alyx Vance, you are humanity’s only chance for survival.",
+    "category": "Shooter",
+    "price": 6.99
+  }, {
+    "name": "Resident Evil 7",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/header.jpg?t=1610067869",
+    "description ": "Fear and isolation seep through the walls of an abandoned southern farmhouse. 7 marks a new beginning for survival horror with the “Isolated View” of the visceral new first-person perspective.",
+    "category": "Horror",
+    "price": 10
+  }, {
+    "name": "Forza Horizon 4",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/header.jpg?t=1615337540 ",
+    "description ": "Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world.",
+    "category": "Racing",
+    "price": 20
+  }, {
+    "name": "Stardew Valley",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg?t=1608624324",
+    "description ": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home.",
+    "category": "RPG",
+    "price": 7
+  }, {
+    "name": "Terraria",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg?t=1590092560",
+    "description ": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+    "category": "Sandbox",
+    "price": 5
+  }, {
+    "name": "Hotline Miami 2: Wrong Number",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/274170/header.jpg?t=1498680121",
+    "description ": "Hotline Miami 2: Wrong Number is the brutal conclusion to the Hotline Miami saga, set against a backdrop of escalating violence and retribution over spilled blood in the original game.",
+    "category": "Action",
+    "price": 4
+  }, {
+    "name": "Metro 2033 Redux",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/header.jpg?t=1600354146",
+    "description ": "In 2013 the world was devastated by an apocalyptic event, annihilating almost all mankind and turning the Earth's surface into a poisonous wasteland. A handful of survivors took refuge in the depths of the Moscow underground, and human civilization entered a new Dark Age. The year is 2033.",
+    "category": "Shooter",
+    "price": 10
+  }
+]}
+  
