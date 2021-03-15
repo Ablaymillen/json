@@ -3,37 +3,37 @@
     [{
     "name": "Arma 3",
     "image": "https://images-na.ssl-images-amazon.com/images/I/71kpEBuzxnL._SX679_.jpg",
-    "description ": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single- and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC’s premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
+    "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single- and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC’s premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
     "category": "Action",
     "price": 30
   }, {
     "name": "Half-Life: Alyx",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/546560/header.jpg?t=1605207546",
-    "description ": "Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2. Playing as Alyx Vance, you are humanity’s only chance for survival.",
+    "description": "Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2. Playing as Alyx Vance, you are humanity’s only chance for survival.",
     "category": "Shooter",
     "price": 6.99
   }, {
     "name": "Resident Evil 7",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/header.jpg?t=1610067869",
-    "description ": "Fear and isolation seep through the walls of an abandoned southern farmhouse. 7 marks a new beginning for survival horror with the “Isolated View” of the visceral new first-person perspective.",
+    "description": "Fear and isolation seep through the walls of an abandoned southern farmhouse. 7 marks a new beginning for survival horror with the “Isolated View” of the visceral new first-person perspective.",
     "category": "Horror",
     "price": 10
   }, {
     "name": "Forza Horizon 4",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/header.jpg?t=1615337540 ",
-    "description ": "Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world.",
+    "description": "Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world.",
     "category": "Racing",
     "price": 20
   }, {
     "name": "Stardew Valley",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg?t=1608624324",
-    "description ": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home.",
+    "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home.",
     "category": "RPG",
     "price": 7
   }, {
     "name": "Terraria",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg?t=1590092560",
-    "description ": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+    "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
     "category": "Sandbox",
     "price": 5
   }, {
@@ -45,7 +45,7 @@
   }, {
     "name": "Metro 2033 Redux",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/header.jpg?t=1600354146",
-    "description ": "In 2013 the world was devastated by an apocalyptic event, annihilating almost all mankind and turning the Earth's surface into a poisonous wasteland. A handful of survivors took refuge in the depths of the Moscow underground, and human civilization entered a new Dark Age. The year is 2033.",
+    "description": "In 2013 the world was devastated by an apocalyptic event, annihilating almost all mankind and turning the Earth's surface into a poisonous wasteland. A handful of survivors took refuge in the depths of the Moscow underground, and human civilization entered a new Dark Age. The year is 2033.",
     "category": "Shooter",
     "price": 10
   }
