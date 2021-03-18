@@ -49,5 +49,26 @@
     "category": "Shooter",
     "price": 10
   }
+     {
+     "name": "Halo",
+    "image": "https://store-images.s-microsoft.com/image/apps.13279.13531531932619944.82dbf3be-c184-4698-8305-d3e67ea97305.e91f386c-c20a-4d02-93db-c394c89272eb",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Shooter",
+    "price": 15 
+     }
+     {
+     "name": "Need for Speed",
+    "image": "https://media.contentapi.ea.com/content/dam/gin/common/packart/nfs-most-wanted-2012-xbox-360-packart.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Racing",
+    "price": 7 
+     }
+     {
+     "name": "Warcraft 3",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51M0R7svtAL._AC_SY445_.jpg",
+    "description": "In 2013 the world was devastated by an apocalyptic event, annihilating almost all mankind and turning the Earth's surface into a poisonous wasteland. A handful of survivors took refuge in the depths of the Moscow underground, and human civilization entered a new Dark Age. The year is 2033.",
+    "category": "Strategy",
+    "price": 10      
+     }
 ]}
   
