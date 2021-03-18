@@ -1,6 +1,12 @@
   {
     "games":
-    [{
+    [{"name": "Minecraft: Java Edition",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307x4B5WLoVoIUtdewG4uJ_YuDRTwBxQy0qP8ylgazLLc01PBxbsFG1pGOWmqhZsxnNkrU3GXbdXIowBAstzlrhtQ4LCI4.png",
+      "description": "Minecraft is a sandbox video game developed by Mojang. The game was created by Markus 'Notch' Persson in the Java programming language.",
+      "category": "Sandbox",
+      "price" : 25
+     },
+    {
     "name": "Arma 3",
     "image": "https://images-na.ssl-images-amazon.com/images/I/71kpEBuzxnL._SX679_.jpg",
     "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single- and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC’s premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
